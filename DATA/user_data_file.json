@@ -1,0 +1,44 @@
+{
+    "U2912": {
+        "username": "cheta",
+        "password": "cheta123",
+        "role": "admin",
+        "created on": "2025-11-09T04:14:31.532265"
+    },
+    "U4807": {
+        "username": "mike",
+        "password": "mike123",
+        "role": "admin",
+        "created on": "2025-11-09T11:21:34.557832"
+    },
+    "U2134": {
+        "username": "james",
+        "password": "james123",
+        "role": "guest",
+        "created on": "2025-11-09T11:40:41.991324"
+    },
+    "U8363": {
+        "username": "keke",
+        "password": "keke123",
+        "role": "guest",
+        "created on": "2025-11-09T11:52:49.782575"
+    },
+    "U9868": {
+        "username": "okenna",
+        "password": "okenna123",
+        "role": "admin",
+        "created on": "2025-11-09T12:21:45.271091"
+    },
+    "U4592": {
+        "username": "micheal",
+        "password": "micheal124",
+        "role": "admin",
+        "created on": "2025-11-10T10:26:06.322133"
+    },
+    "U5257": {
+        "username": "yoo",
+        "password": "yoo124",
+        "role": "guest",
+        "created on": "2025-11-10T10:34:25.218391"
+    }
+}

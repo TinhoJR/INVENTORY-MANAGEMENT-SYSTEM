@@ -1,0 +1,38 @@
+{
+    "T7655": {
+        "product_id": "P1676",
+        "product_name": "rice",
+        "quantity_sold": 5,
+        "total_price": 250000,
+        "sold_by_name": "cheta",
+        "sold_by_id": "U2912",
+        "date": "2025-11-09T04:20:22.436913"
+    },
+    "T5276": {
+        "product_id": "P6266",
+        "product_name": "coca-cola",
+        "quantity_sold": 15,
+        "total_price": 9000,
+        "sold_by_name": "cheta",
+        "sold_by_id": "U2912",
+        "date": "2025-11-09T11:18:21.180844"
+    },
+    "T9516": {
+        "product_id": "P1676",
+        "product_name": "rice",
+        "quantity_sold": 3,
+        "total_price": 150000,
+        "sold_by_name": "james",
+        "sold_by_id": "U2134",
+        "date": "2025-11-09T11:42:01.082085"
+    },
+    "T7241": {
+        "product_id": "P6266",
+        "product_name": "coca-cola",
+        "quantity_sold": 17,
+        "total_price": 10200,
+        "sold_by_name": "keke",
+        "sold_by_id": "U8363",
+        "date": "2025-11-09T11:53:56.427646"
+    }
+}
