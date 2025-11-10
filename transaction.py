@@ -1,9 +1,8 @@
 import json,os
-import datetime
 from utils import generate_id
-from user import USER_DATA_FILE
 
-SALES_FILE = "C:/Users/ELITEBOOK 840 G5/Desktop/CODING/BACKEND/PERSONAL-TESTS/CLASS/INVENTORY-SYSTEM/DATA/sales_file.json"
+
+SALES_FILE = "C:/Users/ELITEBOOK 840 G5/Desktop/CODING/BACKEND/PERSONAL-TESTS/PROJECTS/INVENTORY-SYSTEM/DATA/sales_file.json"
 
 class Transaction:
     def __init__(self,file_path):

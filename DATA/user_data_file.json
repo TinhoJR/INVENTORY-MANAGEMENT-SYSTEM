@@ -40,5 +40,11 @@
         "password": "yoo124",
         "role": "guest",
         "created on": "2025-11-10T10:34:25.218391"
+    },
+    "U7336": {
+        "username": "hulk",
+        "password": "hulk123",
+        "role": "guest",
+        "created on": "2025-11-10T11:33:20.198746"
     }
 }

@@ -1,7 +1,7 @@
 import json,os
 import datetime
 
-PRODUCT_FILE = "C:/Users/ELITEBOOK 840 G5/Desktop/CODING/BACKEND/PERSONAL-TESTS/CLASS/INVENTORY-SYSTEM/DATA/products_file.json"
+PRODUCT_FILE = "C:/Users/ELITEBOOK 840 G5/Desktop/CODING/BACKEND/PERSONAL-TESTS/PROJECTS/INVENTORY-SYSTEM/DATA/products_file.json"
 
 class Product:
     def __init__(self,name,price,qty,product_id):

@@ -1,7 +1,7 @@
 import json,os
 import datetime
  
-USER_DATA_FILE = "C:/Users/ELITEBOOK 840 G5/Desktop/CODING/BACKEND/PERSONAL-TESTS/CLASS/INVENTORY-SYSTEM/DATA/user_data_file.json"
+USER_DATA_FILE = "C:/Users/ELITEBOOK 840 G5/Desktop/CODING/BACKEND/PERSONAL-TESTS/PROJECTS/INVENTORY-SYSTEM/DATA/user_data_file.json"
 
 class User:
     def __init__(self,username,password,role,user_id):
